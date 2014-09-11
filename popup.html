@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+	<head>
+		<title>DeFace</title>
+
+		<style>
+			body {
+				min-width: 200px;
+				overflow-x: hidden;
+				font-family: monospace;
+			}
+
+			ul li {
+				list-style: none;
+			}
+		</style>
+
+		<!--
+		- new idea - face swap, cut faces from one location and paste them in an other randomly
+		-->
+
+		<script src="jquery-2.0.0.min.js"></script>
+		<script src="popup.js"></script>
+
+	</head>
+	<body>
+		<p>
+			Choose deface
+		</p>
+		<ul id="chooseSource">
+			<li>
+				<input name="faceFilter" id="classified" type="radio" value="classified" checked/>
+				<label for="classified">Anonymous</label>
+			</li>
+			<li>
+				<input name="faceFilter" id="bleep" type="radio" value="bleep" />
+				<label for="bleep">Bleep</label>
+			</li>
+			<li>
+				<input name="faceFilter" id="smiley" type="radio" value="smiley" />
+				<label for="smiley">Smiley</label>
+			</li>
+			<li>
+				<input name="faceFilter" id="lipstick" type="radio" value="lipstick" />
+				<label for="smiley">Lipstick</label>
+			</li>
+		</ul>
+	</body>
+</html>
+

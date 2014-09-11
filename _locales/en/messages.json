@@ -1,0 +1,34 @@
+{
+  "appName": {
+    "message": "Deface",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Imagebreaking and anxiety reduction for the web.", 
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTitle" : {
+      "message": "Choose deface",
+      "description": "The title used in the popup."
+  },
+  "anonymousFilter" : {
+      "message": "Anonymous",
+      "description": "The title used for the anonymous filter."
+  },
+  "bleepFilter" : {
+      "message": "Bleepo",
+      "description": "The title used for the bleep filter."
+  },
+  "smileyFilter" : {
+      "message": "Smiley",
+      "description": "The title used for the smiley filter."
+  },
+  "lipstickFilter" : {
+      "message": "Lipstick",
+      "description": "The title used for the lipstick filter."
+  },
+  "sharingTitle" : {
+      "message": "Share to FaceBook",
+      "description": "The title used for the lipstick filter."
+  }
+}

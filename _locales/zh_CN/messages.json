@@ -1,0 +1,32 @@
+{
+  "appName": {
+    "message": "Deface"
+  },
+  "appDesc": {
+    "message": "在这个明星和自拍照泛滥的时代,我们也需要点捣毁偶像的娱乐精神。本插件会自动搜寻出网页内的一张张脸, 并根据你的喜好进行恶搞。向那些⺴络自我营销者们投出一颗微型实验弹吧! 右击以分享到各个社交⺴站"
+  },
+  "popupTitle" : {
+      "message": "选择滤镜",
+      "description": "The title used in the popup."
+  },
+  "anonymousFilter" : {
+      "message": "马赛克（眼）",
+      "description": "The title used for the anonymous filter."
+  },
+  "bleepFilter" : {
+      "message": "马赛克（嘴）",
+      "description": "The title used for the bleep filter."
+  },
+  "smileyFilter" : {
+      "message": "笑脸",
+      "description": "The title used for the smiley filter."
+  },
+  "lipstickFilter" : {
+      "message": "红唇",
+      "description": "The title used for the lipstick filter."
+  },
+  "sharingTitle" : {
+      "message": "分享到Facebook",
+      "description": "The title used for the lipstick filter."
+  }
+}
